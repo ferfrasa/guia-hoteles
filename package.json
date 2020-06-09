@@ -1,0 +1,19 @@
+{
+  "name": "guiahoteles",
+  "version": "1.0.0",
+  "description": "Guia Hoteles",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferfrasa/guia-hoteles.git"
+  },
+  "author": "Erika Franco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferfrasa/guia-hoteles/issues"
+  },
+  "homepage": "https://github.com/ferfrasa/guia-hoteles#readme"
+}
